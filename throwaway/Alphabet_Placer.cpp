@@ -26,7 +26,6 @@ void Alphabet_Placer::place_alphatbet(Board& board)
 
 	while (char_currently_on < 26)
 	{
-		board.display_board();
 		if (check_each_side(board) == false)
 		{
 			cout << "End reached, could not go further. " << endl;
