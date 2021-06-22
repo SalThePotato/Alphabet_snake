@@ -1,0 +1,2 @@
+C:\Users\salth\source\repos\throwaway\Debug\throwaway.exe
+C:\Users\salth\source\repos\throwaway\Debug\throwaway.pdb

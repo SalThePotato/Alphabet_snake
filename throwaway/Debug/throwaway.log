@@ -1,0 +1,3 @@
+﻿  Alphabet_Placer.cpp
+C:\Users\salth\source\repos\throwaway\Alphabet_Placer.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  throwaway.vcxproj -> C:\Users\salth\source\repos\throwaway\Debug\throwaway.exe
