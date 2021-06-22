@@ -16,14 +16,15 @@ int main()
 	cout << "Hello World!" << endl;
 
 	Board board;
-
+	
 	board.display_board();
 	
 
 	Alphabet_Placer placer;
-
+	
 	placer.place_alphatbet(board);
-
+	
+	cout << endl << "This is the result. " << endl;
 	board.display_board();
 	
 	system("pause");
